@@ -1,0 +1,23 @@
+# DMA — Drunken Miner Assistant (tester releases)
+
+DMA is a set of userscripts for *The Settlers Online* client (tso_portable). This repository only holds the
+**tester releases**; the source is developed elsewhere.
+
+## Install
+
+1. Download the zip of the latest release under **Releases**.
+2. Close the game client.
+3. Unpack the zip and copy the files from `userscripts/` into
+   `%LOCALAPPDATA%\tso_portable\userscripts\` (back up your current files first).
+4. Start the client. The DMA console is under **Tools → DMA Console**.
+
+The full guide is in `docs/01-install.md` inside the zip.
+
+## Update
+
+Repeat the install with the newer release. Your settings (`dma-policy.json`) are kept.
+
+## Feedback
+
+Open an issue in this repository, or tell us in the guild chat. Mention the release version and, if you can, attach
+`dma-adv-status.json` or the console log.
