@@ -1,5 +1,6 @@
-# DMA — Drunken Miner Assistant (tester releases)
+# DMA — Drunken Miner Auto (tester releases)
 
+The name DMA is an acknowledgement to the writer of Drunken Miner. That script is the cause of this development.
 DMA is a set of userscripts for *The Settlers Online* client (tso_portable). This repository only holds the
 **tester releases**; the source is developed elsewhere.
 
