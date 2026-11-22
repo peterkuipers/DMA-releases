@@ -3,9 +3,14 @@
 DMA is a set of userscripts for *The Settlers Online* client (tso_portable). This repository only holds the
 **tester releases**; the source is developed elsewhere.
 
+## Latest release
+
+**2026-11-22** — [download the zip](releases/2026-11-22/tester-2026-11-22.zip) (open the file, then **Download raw file**) ·
+[release notes](releases/2026-11-22/RELEASE-NOTES.md)
+
 ## Install
 
-1. Download the zip of the latest release under **Releases**.
+1. Download the zip of the latest release (above).
 2. Close the game client.
 3. Unpack the zip and copy the files from `userscripts/` into
    `%LOCALAPPDATA%\tso_portable\userscripts\` (back up your current files first).
