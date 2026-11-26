@@ -1,3 +1,6 @@
+> **Withheld (2026-11-26, author):** this pack is not released. Ali Baba and the First Thief still fails on the
+> author's own account; it is released once FT runs. Use 2026-11-22.
+
 **Pack version:** `2026-11-26`. To update: replace the files in `userscripts\` with the ones of this pack and restart
 the client; your settings stay. **Six new files:** `transaction-framework.js`, `user_dma_adv_camps_online.js`,
 `user_dma_battlesim.js`, `user_dma_camp_solver.js`, `user_dma_mundane_gen.js`, `user_dma_unit_facts.js`. Everything new
