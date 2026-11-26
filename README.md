@@ -6,8 +6,8 @@ DMA is a set of userscripts for *The Settlers Online* client (tso_portable). Thi
 
 ## Latest release
 
-**2026-11-22** — [download the zip](releases/2026-11-22/tester-2026-11-22.zip) (open the file, then **Download raw file**) ·
-[release notes](releases/2026-11-22/RELEASE-NOTES.md)
+**2026-11-26** — [download the zip](releases/2026-11-26/tester-2026-11-26.zip) (open the file, then **Download raw file**) ·
+[release notes](releases/2026-11-26/RELEASE-NOTES.md)
 
 ## Install
 
